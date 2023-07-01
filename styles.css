@@ -1,19 +1,39 @@
 /*  your css code here. If applicable */
-td{
-	border:1px solid black;
-	padding:10px;
-}
 .middle{
-	width:100%;
-	border:1px solid black;
-	margin: 0px 0px 20px 0px;
+    margin:0px 0px 15px 0px;
+    width: 100%;
 }
-.center
-{
-	text-align:center;
+
+.center{
+    text-align: center;
 }
-.right
+
+.right{
+    text-align: right;
+}
+
+table{
+    border: 1px solid black;
+    border-spacing: 1px;
+}
+
+td{
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+#t-image
 {
-	text-align:right;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
