@@ -3,9 +3,10 @@ td{
 	border:1px solid black;
 	padding:10px;
 }
-table{
+.one{
 	width:100%;
 	border:1px solid black;
+	margin: 0px 0px 20px 0px;
 }
 .center
 {
@@ -14,4 +15,9 @@ table{
 .right
 {
 	text-align:right;
+}
+.two
+{
+	border:1px solid black;
+	width:100%;
 }
