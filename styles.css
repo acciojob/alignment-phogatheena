@@ -28,3 +28,10 @@ td{
 .blue{
     background-color: blue;
 }
+#t-image
+{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
