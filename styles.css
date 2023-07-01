@@ -1,7 +1,6 @@
-/*  your css code here. If applicable */
 .middle{
-    margin:0px 0px 15px 0px;
-    width: 100%;
+    margin: auto;
+    width: 60%;
 }
 
 .center{
@@ -18,7 +17,7 @@ table{
 }
 
 td{
-    padding: 10px;
+    padding: 1px;
     border: 1px solid black;
 }
 
@@ -29,11 +28,3 @@ td{
 .blue{
     background-color: blue;
 }
-#t-image
-{
-	display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
